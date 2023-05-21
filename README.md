@@ -1,8 +1,6 @@
-# Project 3 - Kali
+# Docker x Kali
 
-**Challenges and Problems**: 
-
-### Running screenfetch (PUT YOUR GIF BELOW)
+Building a docker container to run my kali linux 
 
 <img src="screenfetch.gif" alt="Running screenfetch">
 
